@@ -1,0 +1,1 @@
+ans=(b*pow(10,i))+ans;
